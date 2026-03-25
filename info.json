@@ -1,0 +1,10 @@
+{
+    "name": "FoxCog",
+    "short": "Sends random fox pictures from randomfox.ca",
+    "description": "Adds a [p]fox command that fetches and displays a random fox picture.",
+    "author": ["BugWasabi"],
+    "version": "1.0.0",
+    "required_cogs": {},
+    "requirements": [],
+    "tags": ["fun", "animals", "fox"]
+}
